@@ -1,0 +1,31 @@
+.title{
+    color : #02ccba;
+}
+
+.main li{
+    list-style: none;
+}
+
+.header{
+    background-color : #7fffd4;
+}
+
+.header-top{
+    color : #ffffff;
+}
+
+.contents{
+    background-color : #00bfff;
+}
+
+.contents-top{
+    color : #ffffff;
+}
+
+.footer{
+    background-color : #ff8c00;
+}
+
+.footer-top{
+    color : #ffffff;
+}
